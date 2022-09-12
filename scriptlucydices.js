@@ -15,7 +15,7 @@ let activePlayer = 0;
 let currentScore = 0;
 let playing = true;
 
-//zerar jogo com o new game
+//zerar jogo com o new game;
 const zero = function () {
   playing = true;
   score0.textContent = 0;
